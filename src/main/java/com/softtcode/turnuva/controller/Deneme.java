@@ -1,5 +1,5 @@
 package com.softtcode.turnuva.controller;
 
 public class Deneme {
-    String saiddegisikligi;
+    String said2;
 }
