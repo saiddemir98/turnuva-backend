@@ -5,3 +5,7 @@ public class Deneme {
     String name2;
     String alperen;
 }
+
+class Deneme3{
+
+}
